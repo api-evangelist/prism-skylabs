@@ -1,7 +1,24 @@
 aid: prism-skylabs
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/prism-skylabs.png
 name: Prism Skylabs
-description: Prism Skylabs is a company surfaced as a portfolio company of a16z and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Prism Skylabs was a cloud-based visual monitoring and video analytics company that
+  turned surveillance and IP-camera feeds from physical retail and commercial spaces into searchable,
+  time-lapse imagery and business intelligence. Backed by a16z and Draper Nexus, it was acquired by
+  Cisco in 2016 and folded into the Cisco Meraki smart-camera (MV) computer-vision line; the standalone
+  company is defunct. The prismskylabs.com domain now 301-redirects to prism.com, an unrelated
+  domain-licensing/holding page, and no live Prism Skylabs developer portal, API documentation, or API
+  specifications exist to enrich. This profile is retained as an a16z portfolio identity record.
 url: https://raw.githubusercontent.com/api-evangelist/prism-skylabs/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,12 +26,25 @@ x-backed-by:
 - a16z
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: defunct-acquired
+x-acquired-by: Cisco (2016)
+x-domain-note: 'prismskylabs.com 301-redirects to prism.com (unrelated parked/licensing domain); no live API surface'
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Computer Vision
+- Video Analytics
+- Physical Security
+- Retail Analytics
+- Acquired
 apis: []
+x-enrichment:
+  date: '2026-07-20'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com

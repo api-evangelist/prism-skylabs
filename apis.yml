@@ -29,7 +29,7 @@ x-tier-reason: portfolio-lead
 x-status: defunct-acquired
 x-acquired-by: Cisco (2016)
 x-domain-note: 'prismskylabs.com 301-redirects to prism.com (unrelated parked/licensing domain); no live API surface'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:

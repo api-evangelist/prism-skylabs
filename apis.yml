@@ -68,3 +68,9 @@ maintainers:
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+common:
+- type: ParentCompany
+  url: https://apis.io/providers/cisco/
+  name: Cisco
+  x-relationship: acquired
+  x-evidence: "Backed by a16z and Draper Nexus, it was acquired by Cisco in 2016 and folded into the Cisco Meraki smart-camera (MV) computer-vision line; the standalone company is defunct."

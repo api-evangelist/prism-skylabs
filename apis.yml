@@ -37,7 +37,7 @@ x-backed-by:
 - a16z
 x-tier: stub
 x-tier-reason: portfolio-lead
-x-status: defunct-acquired
+x-status: defunct
 x-acquired-by: Cisco (2016)
 x-domain-note: 'prismskylabs.com 301-redirects to prism.com (unrelated parked/licensing domain); no live API surface'
 specificationVersion: '0.23'
@@ -45,11 +45,12 @@ created: '2026-07-17'
 modified: '2026-07-20'
 tags:
 - Company
-- Computer-Vision
+- Computer Vision
 - Video Analytics
 - Physical Security
 - Retail Analytics
 - Acquired
+- Defunct
 tags_raw:
 - Company
 - Computer Vision
@@ -57,6 +58,8 @@ tags_raw:
 - Physical Security
 - Retail Analytics
 - Acquired
+- Defunct
+- Computer-Vision
 apis: []
 x-enrichment:
   date: '2026-07-20'
